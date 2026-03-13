@@ -1,0 +1,3 @@
+[submodule "examples/training/Wan2.2"]
+	path = examples/training/Wan2.2
+	url = https://github.com/Wan-Video/Wan2.2
